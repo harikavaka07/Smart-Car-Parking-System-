@@ -1,4 +1,4 @@
-# Smart Parking System using STM32, IR Sensors & Bluetooth
+# Automated Smart Parking Gate System Using STM32
 
 This project demonstrates an automated smart parking gate system using IR sensors, a servo motor, and Bluetooth communication, all controlled by an STM32 microcontroller.
 
